@@ -3,7 +3,7 @@ import { Component, Inject } from '@angular/core';
 @Component({
   selector: 'app-lazy',
   template: `
-    <p><b>Lazy</b> Component</p>
+    <p><b>Lazy Library</b> Component</p>
     <button (click)="increaseCounter()">Increase Counter</button>
     <p>Counter: {{ counterService.counter }}</p>
   `
