@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "lazy-counter-lib": [
+        "dist/lazy-counter-lib"
+      ],
+      "lazy-counter-lib/*": [
+        "dist/lazy-counter-lib/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
