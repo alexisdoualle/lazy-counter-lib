@@ -1,6 +1,10 @@
 {
-  "name": "lazy-counter-lib",
+  "name": "alex-ng-workspace",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexisdoualle/lazy-counter-lib.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
